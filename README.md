@@ -87,7 +87,7 @@ The system's limits are also systematic. Antepenultimate stress is never produce
 
 ## Data accessibility
 
-The corpora and files needed for methodological reconstruction are available in this repository. Repository DOI: [placeholder pending assignment].
+The corpora and files needed for methodological reconstruction are available in this repository. Repository DOI: https://doi.org/10.5281/zenodo.19490857.
 
 ---
 
