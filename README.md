@@ -81,13 +81,13 @@ The system's limits are also systematic. Antepenultimate stress is never produce
 
 ## Citation
 
-> BARROSO, A. M. (2026). *TINA: A Hybrid Model of Brazilian Portuguese Pronunciation Structure*. Manuscript.
+> [OMITTED FOR PEER REVIEW] (2026). *TINA: A Hybrid Model of Brazilian Portuguese Pronunciation Structure*. Manuscript.
 
 ---
 
 ## Data accessibility
 
-The corpora and files needed for methodological reconstruction are available in this repository. Repository DOI: https://doi.org/10.5281/zenodo.19490857.
+The corpora and files needed for methodological reconstruction are available in this repository. Repository DOI: [OMITTED FOR PEER REVIEW]
 
 ---
 
