@@ -1,0 +1,21 @@
+============================================================
+  INFERENCE SUMMARY – pseudopalavras (archphonemes only)
+============================================================
+
+  Input file        : /home/alexandre/venvs/Projetos/artigos_finalizados/tina/full_repo/data/pseudopalavras.txt
+  Total words       : 372
+  Successful        : 372
+  Errors            : 0
+  Unique outputs    : 372
+  Total time (s)    : 7.05
+  Avg time/word (s) : 0.019
+
+── Syllable-count distribution ─────────────────────────────
+  2 syl :    2  (  0.5%)  
+  3 syl :  370  ( 99.5%)  █████████████████████████████████████████████████
+
+── Stress position distribution (from right edge) ──────────
+  oxítona (final)                 :  183  ( 49.2%)  ████████████████████████
+  paroxítona (penult.)            :  189  ( 50.8%)  █████████████████████████
+
+============================================================
