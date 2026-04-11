@@ -1,11 +1,5 @@
 # TINA: A Hybrid Model of Brazilian Portuguese Pronunciation Structure
 
-Preprint version, April 2026. Submitted manuscript under review.
-
----
-
-## Overview
-
 TINA is a compact hybrid system for automatic phonetic transcription of Brazilian Portuguese. It addresses the task as a structured pronunciation problem rather than a flat grapheme-to-phoneme conversion. The system predicts a syllabified, stress-marked, archiphonemic representation through a multi-output neural architecture, and then expands that representation into surface-oriented variants through explicit phonological rules.
 
 The model is not presented as a state-of-the-art neural G2P architecture. Its purpose is to make Brazilian Portuguese pronunciation structure computationally legible, and to serve as an interpretable model of the regularities that govern syllabification, lexical stress, and dialect-sensitive realization in the language.
