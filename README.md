@@ -367,7 +367,7 @@ This script:
 The neural model produces a **structured archiphonemic transcription**, for example:
 
 ```text
-/si.ˈla.ba/
+/ˈsi.la.ba/
 ```
 
 Properties:
@@ -378,11 +378,7 @@ Properties:
 
 ### Expanded output
 
-The rule engine returns one or more surface-oriented variants, for example:
-
-```text
-/si.ˈla.ba/ /si.ˈla.baɪ/
-```
+The rule engine returns one or more surface-oriented variants.
 
 Actual outputs depend on:
 
